@@ -18,7 +18,8 @@ Python
 
 Tableau
 
-<img width="630" height="470" alt="dca3a958-2dba-497a-9bf1-fe30b99699c6" src="https://github.com/user-attachments/assets/2af80303-e3df-4792-b7c7-dbd5d1b68004" />
+<img width="630" height="470" alt="image" src="https://github.com/user-attachments/assets/17334bf6-62a5-4f7b-a450-481979e7b49d" />
+
 
 
 What I used
